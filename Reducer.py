@@ -1,5 +1,5 @@
-s = open("s.txt","r")
-r = open("r.txt", "w")
+s = open("shaiksorter.txt","r")
+r = open("shaikreducer.txt", "w")
 
 thisKey = ""
 thisValue = 0.0

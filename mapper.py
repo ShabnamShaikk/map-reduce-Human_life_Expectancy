@@ -1,10 +1,14 @@
-from re import A
+# Case 2 - Mapper using standard input and output
+# Easy to test locally in the terminal
+
 import sys 
 
 # iterate through each line provided via standard input
 for line in sys.stdin:
   datalist = line.strip().split(",")
-  if (len(datalist) == 12) : 
-    unit_id,golden,unit_state,trusted_judgments,last_judgment_at,choose_one,choose_one_confidence,choose_one_gold,keyword,location,text,tweetid,userid = datalist
+  if (len(datalist) == 4) : 
+    country, Country_Code,Level,Region,  = datalist
     # print intermediate key-value pairs to standard output
-  print(golden,"\t",1)
+    print(Country_Code,"\t",1)
+
+    

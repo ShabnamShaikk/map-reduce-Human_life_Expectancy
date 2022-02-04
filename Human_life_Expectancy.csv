@@ -1,0 +1,106 @@
+Country,Country_Code,Level,Region
+Afghanistan,AFG,National,Total
+Afghanistan,AFG,subnational,Central (Kabul Wardak Kapisa Logar Parwan Panjsher)
+Afghanistan,AFG,subnational,Central Highlands (Bamyan Daikundi)
+Afghanistan,AFG,subnational,East (Nangarhar Kunar Laghman Nooristan)
+Afghanistan,AFG,subnational,North (Samangan Sar-e-Pul Balkh Jawzjan Faryab)
+Afghanistan,AFG,subnational,North East (Baghlan Takhar Badakhshan Kunduz)
+Afghanistan,AFG,subnational,South (Uruzgan Helmand Zabul Nimroz Kandahar)
+Afghanistan,AFG,subnational,South East (Ghazni Paktya Paktika Khost)
+Afghanistan,AFG,subnational,West (Ghor Herat Badghis Farah)
+Albania,ALB,National,Total
+Albania,ALB,subnational, Berat
+Albania,ALB,subnational, Diber
+Albania,ALB,subnational, Durres
+Albania,ALB,subnational, Elbasan
+Albania,ALB,subnational, Fier
+Albania,ALB,subnational, Gjirokaster
+Albania,ALB,subnational, Korce
+Albania,ALB,subnational, Kukes
+Albania,ALB,subnational, Lezhe
+Albania,ALB,subnational, Shkoder
+Albania,ALB,subnational, Tirana
+Albania,ALB,subnational, Vlore
+Algeria,DZA,National,Total
+Algeria,DZA,subnational,"Hauts Plateaux Centre (Djelfa, Laghouat, MSila)"
+Algeria,DZA,subnational,"Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)"
+Algeria,DZA,subnational,"Hauts Plateaux Ouest (Tiaret, Saida, Tissemsilt, Naama, El Bayadh)"
+Algeria,DZA,subnational,"Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Bejaia, Chlef, Ain Defla)"
+Algeria,DZA,subnational,"Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)"
+Algeria,DZA,subnational,"Nord Ouest (Oran, Tlemcen, Mostaganem, Ain Temouchent, Relizane, Sidi Bel Abbes, Mascara)"
+Algeria,DZA,subnational,"Sud (Bechar, Tindouf, Adrar, Ghardaia, Biskra, El Oued, Ouargla, Tamanrasset,Illizi)"
+Andorra,AND,National,Total
+Angola,AGO,National,Total
+Angola,AGO,subnational, Bengo
+Angola,AGO,subnational, Benguela
+Angola,AGO,subnational, Bie
+Angola,AGO,subnational, Cabinda
+Angola,AGO,subnational, Cunene
+Angola,AGO,subnational, Huambo
+Angola,AGO,subnational, Huila
+Angola,AGO,subnational, Kuando Kubango
+Angola,AGO,subnational, Kuanza Norte
+Angola,AGO,subnational, Kuanza Sul
+Angola,AGO,subnational, Luanda
+Angola,AGO,subnational, Lunda Norte
+Angola,AGO,subnational, Lunda Sul
+Angola,AGO,subnational, Malange
+Angola,AGO,subnational, Moxico
+Angola,AGO,subnational, Namibe
+Angola,AGO,subnational, Uige
+Angola,AGO,subnational, Zaire
+Antigua and Barbuda,ATG,National,Total
+Argentina,ARG,National,Total
+Argentina,ARG,subnational,"Catamarca, La Rioja, San Juan"
+Argentina,ARG,subnational,"Chaco, Formosa"
+Argentina,ARG,subnational,"Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra del Fuego"
+Argentina,ARG,subnational,City of Buenos Aires
+Argentina,ARG,subnational,Cordoba
+Argentina,ARG,subnational,"Corrientes, Entre Rios, Misiones"
+Argentina,ARG,subnational,"Jujuy, Salta"
+Argentina,ARG,subnational,"La Pampa, San Luis, Mendoza"
+Argentina,ARG,subnational,Rest of Buenos Aires
+Argentina,ARG,subnational,Santa Fe
+Argentina,ARG,subnational,"Santiago del Estero, Tucuman"
+Armenia,ARM,National,Total
+Armenia,ARM,subnational,Aragatsotn
+Armenia,ARM,subnational,Ararat
+Armenia,ARM,subnational,Armavir
+Armenia,ARM,subnational,Gegharkunik
+Armenia,ARM,subnational,Kotayk
+Armenia,ARM,subnational,Lori
+Armenia,ARM,subnational,Shirak
+Armenia,ARM,subnational,Syunik
+Armenia,ARM,subnational,Tavush
+Armenia,ARM,subnational,Vayots Dzor
+Armenia,ARM,subnational,Yerevan
+Australia,AUS,National,Total
+Australia,AUS,subnational,Australian Capital Territory
+Australia,AUS,subnational,New South Wales
+Australia,AUS,subnational,Northern Territory
+Australia,AUS,subnational,Queensland
+Australia,AUS,subnational,South Australia
+Australia,AUS,subnational,Tasmania
+Australia,AUS,subnational,Victoria
+Australia,AUS,subnational,Western Australia
+Austria,AUT,National,Total
+Austria,AUT,subnational,Burgenland
+Austria,AUT,subnational,Karnten
+Austria,AUT,subnational,Niederosterreich
+Austria,AUT,subnational,Oberosterreich
+Austria,AUT,subnational,Salzburg
+Austria,AUT,subnational,Steiermark
+Austria,AUT,subnational,Tirol
+Austria,AUT,subnational,Vorarlberg
+Austria,AUT,subnational,Wien
+Azerbaijan,AZE,National,Total
+Azerbaijan,AZE,subnational,Absheron
+Azerbaijan,AZE,subnational,Aran
+Azerbaijan,AZE,subnational,Baku
+Azerbaijan,AZE,subnational,Dakhlik Shirvan
+Azerbaijan,AZE,subnational,Ganja Gazakh
+Azerbaijan,AZE,subnational,Guba Khachmaz
+Azerbaijan,AZE,subnational,Lankaran
+Azerbaijan,AZE,subnational,Shaki Zaqatala
+Azerbaijan,AZE,subnational,Yukhari Karabakh
+

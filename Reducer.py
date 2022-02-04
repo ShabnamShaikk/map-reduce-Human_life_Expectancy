@@ -8,15 +8,15 @@ thisValue = 0.0
 for line in sys.stdin:
   datalist = line.strip().split('\t')
   if (len(datalist) == 2) : 
-   United , count = datalist
+   Colombia , count = datalist
 
-if United != thisKey:   # we've moved to another key
+if Colombia != thisKey:   # we've moved to another key
       if thisKey:
         # output the previous key-summaryvalue result
         print(thisKey,'\t',thisValue)
 
       # start over for each new key
-      thisKey = United
+      thisKey = Colombia
       thisValue = 0.0
   
     # apply the aggregation function

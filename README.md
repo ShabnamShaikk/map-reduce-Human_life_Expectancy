@@ -1,7 +1,7 @@
 # Shabnam_mapreduce_Human life Expectancy
 MapReduce for large datasets.
 ## About Data
-This dataset is a collection of 186 countries with region wise human life expectancy.
+This dataset is a collection of 186 countries with region wise human life expectancy. The human lifespan is the maximum number of years an individual from the human species can live based on observed examples.
 
 DateSet Source: ***[Link](https://www.kaggle.com/deepcontractor/human-life-expectancy-around-the-world)*** 
 ## Question to be answered

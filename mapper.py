@@ -5,6 +5,6 @@ import sys
 for line in sys.stdin:
   datalist = line.strip().split(",")
   if (len(datalist) == 12) : 
-    Country,Region,Happiness_Rank,Happiness_Score,Standard_Error,Economy,Family,Health,Freedom,Trust,Generosity,Dystopia_Residual = datalist
+    unit_id,golden,unit_state,trusted_judgments,last_judgment_at,choose_one,choose_one_confidence,choose_one_gold,keyword,location,text,tweetid,userid = datalist
     # print intermediate key-value pairs to standard output
-  print(Country,"\t",1)
+  print(golden,"\t",1)

@@ -1,4 +1,4 @@
-_unit_id,_golden,_unit_state,_trusted_judgments,_last_judgment_at,choose_one,choose_one:confidence,choose_one_gold,keyword,location,text,tweetid,userid
+_unit_id,golden,_unit_state,_trusted_judgments,_last_judgment_at,choose_one,choose_one_confidence,choose_one_gold,keyword,location,text,tweetid,userid
 778243823,True,golden,156,,Relevant,1.0,Relevant,,,Just happened a terrible car crash,1.0,
 778243824,True,golden,152,,Relevant,1.0,Relevant,,,Our Deeds are the Reason of this #earthquake May ALLAH Forgive us all,13.0,
 778243825,True,golden,137,,Relevant,1.0,Relevant,,,"Heard about #earthquake is different cities, stay safe everyone.",14.0,

@@ -1,4 +1,4 @@
-Country,Total Library Size,No. of TV Shows,No. of Movies,Cost Per Month - Basic ($),Cost Per Month - Standard ($),Cost Per Month - Premium ($)
+Country,Total_LibrarySize,No_of_TVShows,No_of_Movies,Basic_plan,Standard_plan,Premium_plan
 Argentina,4760,3154,1606,3.74,6.3,9.26
 Austria,5640,3779,1861,9.03,14.67,20.32
 Bolivia,4991,3155,1836,7.99,10.99,13.99
